@@ -1,3 +1,4 @@
 sample-data/sample_diff.json
 *.json
 !sample-data/sample_diff.json.gz
+
